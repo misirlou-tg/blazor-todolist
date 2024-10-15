@@ -3,13 +3,15 @@
 Followed instructions here to build this project:<br>
 https://learn.microsoft.com/en-us/aspnet/core/blazor/tutorials/build-a-blazor-app
 
-## Building / Running
+## Developing
+
+You can build / watch / run with:
 ```
 cd TodoList
-dotnet build
+dotnet watch
 ```
 
-Alternatively, you can run from the root with:
+Alternatively, you can run from the root of this repo with:
 ```
-dotnet run --project TotoList
+dotnet run --project TodoList
 ```
